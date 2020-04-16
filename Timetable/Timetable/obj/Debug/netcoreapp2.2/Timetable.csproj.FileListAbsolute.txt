@@ -1,0 +1,3 @@
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.csproj.CoreCompileInputs.cache
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.AssemblyInfoInputs.cache
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.AssemblyInfo.cs
