@@ -27,7 +27,7 @@ jobs:
         APP_NAME: Timetable
     # Build and deploy docker image
       run: |
-        cd ./timetable/Timetable/Timetable
+        cd ./timetable/Timetable/
         docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
         heroku container:push web -a $APP_NAME
         heroku container:release web -a $APP_NAME
