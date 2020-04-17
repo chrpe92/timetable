@@ -23,7 +23,7 @@ jobs:
     - name: Build and deploy docker image
     # Sets env variables
       env:
-        HEROKU_API_KEY: ${{Heroku}}
+        HEROKU_API_KEY: ${{secrets.Heroku}}
         APP_NAME: Timetable
     # Build and deploy docker image
       run: |
