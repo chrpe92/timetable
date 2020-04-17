@@ -20,14 +20,12 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
+    - name: Build and deploy docker image
     # Sets env variables
-    - name: Set environment variables
       env:
         HEROKU_API_KEY: ${{Heroku}}
         APP_NAME: Timetable
-
     # Build and deploy docker image
-    - name: Build and deploy docker image
       run: |
         cd ./timetable/Timetable/Timetable
         docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
