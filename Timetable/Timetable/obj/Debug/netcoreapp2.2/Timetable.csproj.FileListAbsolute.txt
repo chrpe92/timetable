@@ -1,3 +1,14 @@
 C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.csproj.CoreCompileInputs.cache
 C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.AssemblyInfoInputs.cache
 C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.AssemblyInfo.cs
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\bin\Debug\netcoreapp2.2\Timetable.deps.json
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\bin\Debug\netcoreapp2.2\Timetable.runtimeconfig.json
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\bin\Debug\netcoreapp2.2\Timetable.runtimeconfig.dev.json
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\bin\Debug\netcoreapp2.2\Timetable.dll
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\bin\Debug\netcoreapp2.2\Timetable.pdb
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.csprojAssemblyReference.cache
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.RazorAssemblyInfo.cache
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.RazorAssemblyInfo.cs
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.RazorTargetAssemblyInfo.cache
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.dll
+C:\Users\ChristofferPedersen\Desktop\timetable\Timetable\Timetable\obj\Debug\netcoreapp2.2\Timetable.pdb
